@@ -1,0 +1,592 @@
+{
+   "male": {
+      "heavyweight": {
+         "champions": [{
+               "name": "Mark Coleman",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 170,
+               "event": "UFC: 12"
+            },
+            {
+               "name": "Maurice Smith",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 147,
+               "event": "UFC: 14, 15"
+            },
+            {
+               "name": "Randy Couture",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 1113,
+               "event": "UFC: Japan, 28, 31, 34, 68"
+            },
+            {
+               "name": "Bas Rutten",
+               "country": "Netherlands",
+               "defenses": 0,
+               "totalReign": "Unknown",
+               "event": "UFC: 20"
+            },
+            {
+               "name": "Kevin Randleman",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 364,
+               "event": "UFC: 23, 26"
+            },
+            {
+               "name": "Josh Barnett",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 126,
+               "event": "UFC: 36"
+            },
+            {
+               "name": "Ricco Rodriguez",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 154,
+               "event": "UFC: 39"
+            }, {
+               "name": "Tim Sylvia",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 229,
+               "event": "UFC: 41, 44, 59, 61, 65"
+            }, {
+               "name": "Frank Mir",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 419,
+               "event": "UFC: 48, 92"
+            }, {
+               "name": "Andrei Arlovski",
+               "country": "Belarus",
+               "defenses": 1,
+               "totalReign": 246,
+               "event": "UFC: 51, 53, 55"
+            },
+            {
+               "name": "Brock Lesnar",
+               "country": "USA",
+               "defenses": 2,
+               "totalReign": 707,
+               "event": "UFC: 91, 100, 116"
+            },
+            {
+               "name": "Cain Velasquez",
+               "country": "USA",
+               "defenses": 2,
+               "totalReign": 1281,
+               "event": "UFC: 121, 155, 160, 166"
+            },
+            {
+               "name": "Junior dos Santos",
+               "country": "Brazil",
+               "defenses": 1,
+               "totalReign": "Unknown",
+               "event": "UFC: Velasquez vs. dos Santos, UFC 146"
+            },
+            {
+               "name": "Fabrício Werdum",
+               "country": "Brazil",
+               "defenses": 0,
+               "totalReign": 336,
+               "event": "UFC: 180, 188"
+            },
+            {
+               "name": "Stipe Miocic",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 785,
+               "event": "UFC: 198, 203, 211, 220, 241",
+               "currentChamp": true
+            },
+            {
+               "name": "Daniel Cormier",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 407,
+               "event": "UFC: 226, 230"
+            }
+         ]
+      },
+      "lightHeavyweight": {
+         "champions": [{
+               "name": "Frank Shamrock",
+               "country": "USA",
+               "defenses": 4,
+               "totalReign": 703,
+               "event": "UFC: Japan, 16, 17, Brazil, 22"
+            },
+            {
+               "name": "Tito Ortiz",
+               "country": "USA",
+               "defenses": 5,
+               "totalReign": 1260,
+               "event": "UFC: 25, 29, 30, 32, 33, 40"
+            },
+            {
+               "name": "Randy Couture",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 365,
+               "event": "UFC: 43, 44, 49"
+            },
+            {
+               "name": "Vitor Belfort",
+               "country": "Brazil",
+               "defenses": 0,
+               "totalReign": 203,
+               "event": "UFC: 46"
+            },
+            {
+               "name": "Chuck Liddell",
+               "country": "USA",
+               "defenses": 4,
+               "totalReign": 770,
+               "event": "UFC: 52, 54, 57, 62, 66"
+            },
+            {
+               "name": "Quinton Jackson",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 406,
+               "event": "UFC: 71, 75"
+            },
+            {
+               "name": " Forrest Griffin",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 175,
+               "event": "UFC: 86"
+            },
+            {
+               "name": "Rashad Evans",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 147,
+               "event": "UFC: 92"
+            },
+            {
+               "name": "Lyoto Machida",
+               "country": "Brazil",
+               "defenses": 1,
+               "totalReign": 350,
+               "event": "UFC: 98, 104"
+            },
+            {
+               "name": " Maurício Rua",
+               "country": "Brazil",
+               "defenses": 0,
+               "totalReign": 315,
+               "event": "UFC: 113"
+            },
+            {
+               "name": " Jon Jones",
+               "country": "USA",
+               "defenses": 10,
+               "totalReign": 1547,
+               "event": "UFC: 128, 135, 140, 145, 152, 159, 165, 172, 182, 235, 239",
+               "currentChamp": true
+            },
+            {
+               "name": " Daniel Cormier",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 1315,
+               "event": "UFC: 187, 192, 210, 220"
+            }
+         ]
+      },
+      "middleweight": {
+         "champions": [{
+               "name": "Dave Menne",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 105,
+               "event": "UFC: 33"
+            },
+            {
+               "name": "Murilo Bustamante",
+               "country": "Brazil",
+               "defenses": 1,
+               "totalReign": 267,
+               "event": "UFC: 35"
+            }, {
+               "name": "Evan Tanner",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 119,
+               "event": "UFC: 51"
+            }, {
+               "name": "Rich Franklin",
+               "country": "USA",
+               "defenses": 2,
+               "totalReign": 497,
+               "event": "UFC: 53, 56, 58"
+            }, {
+               "name": "Anderson Silva",
+               "country": "Brazil",
+               "defenses": 10,
+               "totalReign": 2457,
+               "event": "UFC: 64, 73, 77, 82, 90, 97, 112, 117, 126, 134, 148"
+            },
+            {
+               "name": "Chris Weidman",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 888,
+               "event": "UFC: 162, 168, 175, 187"
+            },
+            {
+               "name": "Luke Rockhold",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 175,
+               "event": "UFC: 194"
+            },
+            {
+               "name": "Michael Bisping",
+               "country": "England",
+               "defenses": 1,
+               "totalReign": 518,
+               "event": "UFC: 199, 204"
+            },
+            {
+               "name": "Georges St-Pierre",
+               "country": "Canada",
+               "defenses": 0,
+               "totalReign": 33,
+               "event": "UFC: 217 "
+            },
+            {
+               "name": "Robert Whittaker",
+               "country": "",
+               "defenses": 0,
+               "totalReign": 624,
+               "event": "Promoted to undisputed champion"
+            }
+         ]
+      },
+      "welterweight": {
+         "champions": [{
+               "name": "Pat Miletich",
+               "country": "Croatia",
+               "defenses": 4,
+               "totalReign": 931,
+               "event": "UFC: Brazil, 18, 21, 26, 29"
+            },
+            {
+               "name": "Carlos Newton",
+               "country": "Canada",
+               "defenses": 0,
+               "totalReign": 183,
+               "event": "UFC: 31"
+            },
+            {
+               "name": "Matt Hughes",
+               "country": "USA",
+               "defenses": 5,
+               "totalReign": 1577,
+               "event": "UFC: 34, 36, 38, 40, 42, 45, 50, 52, 63"
+            },
+            {
+               "name": "B.J. Penn",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 107,
+               "event": "UFC: 46"
+            }, {
+               "name": "Georges St-Pierre",
+               "country": "Canada",
+               "defenses": 9,
+               "totalReign": 2204,
+               "event": "UFC: 65, 87, 94, 100, 111, 124, 129, 154, 158, 167"
+            }, {
+               "name": "Matt Serra",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 378,
+               "event": "UFC: 69"
+            }, {
+               "name": "Johny Hendricks",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 266,
+               "event": "UFC: 171"
+            },
+            {
+               "name": "Robbie Lawler",
+               "country": "USA",
+               "defenses": 2,
+               "totalReign": 602,
+               "event": "UFC: 181, 189, 195"
+            },
+            {
+               "name": "Tyron Woodley",
+               "country": "USA",
+               "defenses": 4,
+               "totalReign": 266,
+               "event": "UFC: 201, 205, 209, 214, 228"
+            },
+            {
+               "name": "Kamaru Usman",
+               "country": "Nigeria",
+               "defenses": 0,
+               "totalReign": 174,
+               "event": "UFC: 235"
+            }
+         ]
+      },
+      "lightweight": {
+         "champions": [{
+               "name": "Jens Pulver",
+               "country": "USA",
+               "defenses": 2,
+               "totalReign": 393,
+               "event": "UFC: 30, 33, 35"
+            },
+            {
+               "name": "Sean Sherk",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 420,
+               "event": "UFC: 64, 73"
+            },
+            {
+               "name": "B.J. Penn",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 812,
+               "event": "UFC: 80, 84, 101, 107"
+            }, {
+               "name": "Frankie Edgar",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 687,
+               "event": "UFC: 118, 125, 136"
+            }, {
+               "name": "Benson Henderson",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 552,
+               "event": "UFC: 144, 150, Henderson vs Diaz, Henderson vs Melendez"
+            }, {
+               "name": "Anthony Pettis",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 560,
+               "event": "UFC: 164, 181"
+            }, {
+               "name": "Rafael dos Anjos",
+               "country": "Brazil",
+               "defenses": 1,
+               "totalReign": 481,
+               "event": "UFC: 185, dos Anjos vs Cerrone 2"
+            }, {
+               "name": "Eddie Alvarez",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 128,
+               "event": "UFC: "
+            }, {
+               "name": "Conor McGregor",
+               "country": "Ireland",
+               "defenses": 0,
+               "totalReign": 511,
+               "event": "UFC: 205"
+            }, {
+               "name": "Khabib Nurmagomedov",
+               "country": "Russia",
+               "defenses": 1,
+               "totalReign": 503,
+               "event": "UFC: 223, 229"
+            }
+         ]
+      },
+      "featherweight ": {
+         "champions": [{
+               "name": "José Aldo",
+               "country": "Brazil",
+               "defenses": 7,
+               "totalReign": 2037,
+               "event": "UFC: 123, 129, 136, 142, 156, 163, 169, 179"
+            },
+            {
+               "name": "Conor McGregor",
+               "country": "Ireland",
+               "defenses": 0,
+               "totalReign": 350,
+               "event": "UFC: 194"
+            },
+            {
+               "name": "Max Holloway",
+               "country": "USA",
+               "defenses": 3,
+               "totalReign": 811,
+               "event": "UFC: 212, 218, 231, 240"
+            }
+         ]
+      },
+      "bantamweight": {
+         "champions": [{
+               "name": "Dominick Cruz",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 1465,
+               "event": "WEC: 53, UFC: 132, Cruz vs Johnson, 199"
+            },
+            {
+               "name": "Renan Barão",
+               "country": "Brazil",
+               "defenses": 2,
+               "totalReign": "Unknown",
+               "event": "UFC: 149, Barao vs. McDonald, 165, 169"
+            }, {
+               "name": "T.J. Dillashaw",
+               "country": "USA",
+               "defenses": 2,
+               "totalReign": 1104,
+               "event": "UFC: 173, 177, Dillashaw vs. Barão 2, 227"
+            }, {
+               "name": "Cody Garbrandt",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 309,
+               "event": "UFC:"
+            }, {
+               "name": "Henry Cejudo",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 76,
+               "event": "UFC: 238"
+            }
+         ]
+      },
+      "flyweight": {
+         "champions": [{
+               "name": "Demetrious Johnson",
+               "country": "USA",
+               "defenses": 11,
+               "totalReign": 2142,
+               "event": "UFC: 152, Johnson vs Dodson, Johnson vs Moraga, Johnson vs Benavidez, 174, 178, 186, 191, 197, Johnson vs Elliot, Johnson vs Reis, 216"
+            },
+            {
+               "name": "Henry Cejudo",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 384,
+               "event": "UFC: Cejudo vs  T.J. Dillashaw"
+            }
+         ]
+      }
+   },
+   "female": {
+      "featherweight": {
+         "champions": [{
+               "name": "Germaine de Randamie",
+               "country": "Netherlands",
+               "defenses": 0,
+               "totalReign": 128,
+               "event": "UFC: 208"
+            },
+            {
+               "name": "Cris Cyborg",
+               "country": "Brazil",
+               "defenses": 2,
+               "totalReign": 517,
+               "event": "UFC: 214, 219, 222"
+            },
+            {
+               "name": "Amanda Nunes",
+               "country": "Brazil",
+               "defenses": 0,
+               "totalReign": 237,
+               "event": "UFC: 232"
+            }
+         ]
+      },
+      "bantamweight": {
+         "champions": [{
+               "name": "Ronda Rousey",
+               "country": "USA",
+               "defenses": 6,
+               "totalReign": 1074,
+               "event": "UFC: Henderson vs Diaz, 157, 168, 170, 175, 184, 190"
+            },
+            {
+               "name": "Holly Holm",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 111,
+               "event": "UFC: 193"
+            },
+            {
+               "name": "Miesha Tate",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 126,
+               "event": "UFC: 196"
+            },
+            {
+               "name": "Amanda Nunes",
+               "country": "Brazil",
+               "defenses": 4,
+               "totalReign": 1140,
+               "event": "UFC: 200, 207, 215, 224, 239"
+            }
+         ]
+      },
+      "flyweight": {
+         "champions": [{
+               "name": "Nicco Montaño",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 280,
+               "event": "UFC: The Ultimate Fighter 26 Finale"
+            },
+            {
+               "name": "Valentina Shevchenko",
+               "country": "Kyrgyzstan",
+               "defenses": 2,
+               "totalReign": 258,
+               "event": "UFC: 231, 238, Shevchenko vs. Carmouche 2"
+            }
+         ]
+      },
+      "strawweight": {
+         "champions": [{
+               "name": "Carla Esparza",
+               "country": "USA",
+               "defenses": 0,
+               "totalReign": 92,
+               "event": "UFC: The Ultimate Fighter 20 Finale"
+            },
+            {
+               "name": "Joanna Jędrzejczyk",
+               "country": "Poland",
+               "defenses": 5,
+               "totalReign": 966,
+               "event": "UFC: 185, Jędrzejczyk vs. Penne, 193, The Ultimate Fighter 23 Finale, 205, 211"
+            },
+            {
+               "name": "Rose Namajunas",
+               "country": "USA",
+               "defenses": 1,
+               "totalReign": 554,
+               "event": "UFC: 223"
+            },
+            {
+               "name": "Jéssica Andrade",
+               "country": "Brazil",
+               "defenses": 0,
+               "totalReign": 104,
+               "event": "UFC: 237"
+            }
+         ]
+      }
+   }
+}
