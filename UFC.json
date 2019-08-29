@@ -102,7 +102,8 @@
                "defenses": 3,
                "totalReign": 785,
                "event": "UFC: 198, 203, 211, 220, 241",
-               "currentChamp": true
+               "currentChamp": true,
+               "image": "/images/male/stipe-heavyweight.jpg"
             },
             {
                "name": "Daniel Cormier",
@@ -190,7 +191,8 @@
                "defenses": 10,
                "totalReign": 1547,
                "event": "UFC: 128, 135, 140, 145, 152, 159, 165, 172, 182, 235, 239",
-               "currentChamp": true
+               "currentChamp": true,
+               "image": "/images/male/jon-lightheavyweight.jpg"
             },
             {
                "name": " Daniel Cormier",
@@ -267,7 +269,9 @@
                "country": "",
                "defenses": 0,
                "totalReign": 624,
-               "event": "Promoted to undisputed champion"
+               "event": "Promoted to undisputed champion",
+               "currentChamp": true,
+               "image": "/images/male/robert-middleweight"
             }
          ]
       },
@@ -337,7 +341,9 @@
                "country": "Nigeria",
                "defenses": 0,
                "totalReign": 174,
-               "event": "UFC: 235"
+               "event": "UFC: 235",
+               "currentChamp": true,
+               "image": "/images/male/kam-welterweight.jpg"
             }
          ]
       },
@@ -403,7 +409,9 @@
                "country": "Russia",
                "defenses": 1,
                "totalReign": 503,
-               "event": "UFC: 223, 229"
+               "event": "UFC: 223, 229",
+               "currentChamp": true,
+               "image": "/images/male/khabib-lightweight.jpg"
             }
          ]
       },
@@ -427,7 +435,9 @@
                "country": "USA",
                "defenses": 3,
                "totalReign": 811,
-               "event": "UFC: 212, 218, 231, 240"
+               "event": "UFC: 212, 218, 231, 240",
+               "currentWeight": true,
+               "image": "/images/male/max-featherweight.jpg"
             }
          ]
       },
@@ -462,7 +472,9 @@
                "country": "USA",
                "defenses": 0,
                "totalReign": 76,
-               "event": "UFC: 238"
+               "event": "UFC: 238",
+               "currentChamp": true,
+               "image": "/images/male/henry-flyweight.jpg"
             }
          ]
       },
@@ -479,7 +491,9 @@
                "country": "USA",
                "defenses": 1,
                "totalReign": 384,
-               "event": "UFC: Cejudo vs  T.J. Dillashaw"
+               "event": "UFC: Cejudo vs  T.J. Dillashaw",
+               "currentChamp": true,
+               "image": "/images/male/henry-flyweight.jpg"
             }
          ]
       }
@@ -505,7 +519,9 @@
                "country": "Brazil",
                "defenses": 0,
                "totalReign": 237,
-               "event": "UFC: 232"
+               "event": "UFC: 232",
+               "currentWeight": true,
+               "image": "/images/female/amanda-featherweight.jpg"
             }
          ]
       },
@@ -536,7 +552,9 @@
                "country": "Brazil",
                "defenses": 4,
                "totalReign": 1140,
-               "event": "UFC: 200, 207, 215, 224, 239"
+               "event": "UFC: 200, 207, 215, 224, 239",
+               "currentChamp": true,
+               "image": "/images/female/amanda-featherweight.jpg"
             }
          ]
       },
@@ -553,7 +571,9 @@
                "country": "Kyrgyzstan",
                "defenses": 2,
                "totalReign": 258,
-               "event": "UFC: 231, 238, Shevchenko vs. Carmouche 2"
+               "event": "UFC: 231, 238, Shevchenko vs. Carmouche 2",
+               "currentChamp": true,
+               "image": "/images/female/valentina-flyweight.jpg"
             }
          ]
       },
@@ -584,7 +604,9 @@
                "country": "Brazil",
                "defenses": 0,
                "totalReign": 104,
-               "event": "UFC: 237"
+               "event": "UFC: 237",
+               "currentChamp": true,
+               "image": "/images/female/jessica-strawweight.jpg"
             }
          ]
       }
