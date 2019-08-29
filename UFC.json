@@ -101,9 +101,7 @@
                "country": "USA",
                "defenses": 3,
                "totalReign": 785,
-               "event": "UFC: 198, 203, 211, 220, 241",
-               "currentChamp": true,
-               "image": "/images/male/stipe-heavyweight.jpg"
+               "event": "UFC: 198, 203, 211, 220, 241"
             },
             {
                "name": "Daniel Cormier",
@@ -190,9 +188,7 @@
                "country": "USA",
                "defenses": 10,
                "totalReign": 1547,
-               "event": "UFC: 128, 135, 140, 145, 152, 159, 165, 172, 182, 235, 239",
-               "currentChamp": true,
-               "image": "/images/male/jon-lightheavyweight.jpg"
+               "event": "UFC: 128, 135, 140, 145, 152, 159, 165, 172, 182, 235, 239"
             },
             {
                "name": " Daniel Cormier",
@@ -269,9 +265,7 @@
                "country": "",
                "defenses": 0,
                "totalReign": 624,
-               "event": "Promoted to undisputed champion",
-               "currentChamp": true,
-               "image": "/images/male/robert-middleweight"
+               "event": "Promoted to undisputed champion"
             }
          ]
       },
@@ -341,9 +335,7 @@
                "country": "Nigeria",
                "defenses": 0,
                "totalReign": 174,
-               "event": "UFC: 235",
-               "currentChamp": true,
-               "image": "/images/male/kam-welterweight.jpg"
+               "event": "UFC: 235"
             }
          ]
       },
@@ -409,9 +401,7 @@
                "country": "Russia",
                "defenses": 1,
                "totalReign": 503,
-               "event": "UFC: 223, 229",
-               "currentChamp": true,
-               "image": "/images/male/khabib-lightweight.jpg"
+               "event": "UFC: 223, 229"
             }
          ]
       },
@@ -435,9 +425,7 @@
                "country": "USA",
                "defenses": 3,
                "totalReign": 811,
-               "event": "UFC: 212, 218, 231, 240",
-               "currentWeight": true,
-               "image": "/images/male/max-featherweight.jpg"
+               "event": "UFC: 212, 218, 231, 240"
             }
          ]
       },
@@ -472,9 +460,7 @@
                "country": "USA",
                "defenses": 0,
                "totalReign": 76,
-               "event": "UFC: 238",
-               "currentChamp": true,
-               "image": "/images/male/henry-flyweight.jpg"
+               "event": "UFC: 238"
             }
          ]
       },
@@ -491,9 +477,7 @@
                "country": "USA",
                "defenses": 1,
                "totalReign": 384,
-               "event": "UFC: Cejudo vs  T.J. Dillashaw",
-               "currentChamp": true,
-               "image": "/images/male/henry-flyweight.jpg"
+               "event": "UFC: Cejudo vs  T.J. Dillashaw"
             }
          ]
       }
@@ -519,9 +503,7 @@
                "country": "Brazil",
                "defenses": 0,
                "totalReign": 237,
-               "event": "UFC: 232",
-               "currentWeight": true,
-               "image": "/images/female/amanda-featherweight.jpg"
+               "event": "UFC: 232"
             }
          ]
       },
@@ -552,9 +534,7 @@
                "country": "Brazil",
                "defenses": 4,
                "totalReign": 1140,
-               "event": "UFC: 200, 207, 215, 224, 239",
-               "currentChamp": true,
-               "image": "/images/female/amanda-featherweight.jpg"
+               "event": "UFC: 200, 207, 215, 224, 239"
             }
          ]
       },
@@ -571,9 +551,7 @@
                "country": "Kyrgyzstan",
                "defenses": 2,
                "totalReign": 258,
-               "event": "UFC: 231, 238, Shevchenko vs. Carmouche 2",
-               "currentChamp": true,
-               "image": "/images/female/valentina-flyweight.jpg"
+               "event": "UFC: 231, 238, Shevchenko vs. Carmouche 2"
             }
          ]
       },
@@ -604,9 +582,7 @@
                "country": "Brazil",
                "defenses": 0,
                "totalReign": 104,
-               "event": "UFC: 237",
-               "currentChamp": true,
-               "image": "/images/female/jessica-strawweight.jpg"
+               "event": "UFC: 237"
             }
          ]
       }
@@ -615,62 +591,62 @@
       "male": [{
             "name": "Henry Cejudo",
             "weight": "Flyweight",
-            "image": "/images/male/henry-flyweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/henry-flyweight.jpg"
          }, {
             "name": "Henry Cejudo",
             "weight": "Bantamweight",
-            "image": "/images/male/henry-flyweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/henry-flyweight.jpg"
          },
          {
             "name": "Max Holloway",
             "weight": "Featherweight",
-            "image": "/images/male/max-featherweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/max-featherweight.jpg"
          },
          {
             "name": "Khabib Nurmagomedov",
             "weight": "Lightweight",
-            "image": "/images/male/khabib-lightweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/khabib-lightweight.jpg"
          },
          {
             "name": "Kamaru Usman",
             "weight": "Welterweight",
-            "image": "/images/male/kam-welterweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/kam-welterweight.jpg"
          }, {
             "name": "Robert Whittaker",
             "weight": "Middleweight",
-            "image": "/images/male/robert-middleweight"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/robert-middleweight.jpg"
          },
          {
             "name": "Jon Jones",
             "weight": "Lightheavyweight",
-            "image": "/images/male/jon-lightheavyweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/jon-lightheavyweight.jpg"
          }, {
             "name": "Stipe Miocic",
             "weight": "Heavyweight",
-            "image": "/images/male/stipe-heavyweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/male/stipe-heavyweight.jpg"
          }
 
       ],
       "female": [{
             "name": "Jéssica Andrade",
             "weight": "Strawweight",
-            "image": "/images/female/jessica-strawweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/female/jessica-strawweight.jpg"
 
          },
          {
             "name": "Valentina Shevchenko",
             "weight": "Flyweight",
-            "image": "/images/female/valentina-flyweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/female/valentina-flyweight.jpg"
          },
          {
             "name": "Amanda Nunes",
             "weight": "Bantamweight",
-            "image": "/images/female/amanda-featherweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/female/amanda-featherweight.jpeg"
          },
          {
             "name": "Amanda Nunes",
             "weight": "Featherweight",
-            "image": "/images/female/amanda-featherweight.jpg"
+            "image": "https://raw.githubusercontent.com/Jake-woods/all-ufc-champions/master/images/female/amanda-featherweight.jpeg"
          }
       ]
    }
