@@ -610,5 +610,68 @@
             }
          ]
       }
+   },
+   "current": {
+      "male": [{
+            "name": "Henry Cejudo",
+            "weight": "Flyweight",
+            "image": "/images/male/henry-flyweight.jpg"
+         }, {
+            "name": "Henry Cejudo",
+            "weight": "Bantamweight",
+            "image": "/images/male/henry-flyweight.jpg"
+         },
+         {
+            "name": "Max Holloway",
+            "weight": "Featherweight",
+            "image": "/images/male/max-featherweight.jpg"
+         },
+         {
+            "name": "Khabib Nurmagomedov",
+            "weight": "Lightweight",
+            "image": "/images/male/khabib-lightweight.jpg"
+         },
+         {
+            "name": "Kamaru Usman",
+            "weight": "Welterweight",
+            "image": "/images/male/kam-welterweight.jpg"
+         }, {
+            "name": "Robert Whittaker",
+            "weight": "Middleweight",
+            "image": "/images/male/robert-middleweight"
+         },
+         {
+            "name": "Jon Jones",
+            "weight": "Lightheavyweight",
+            "image": "/images/male/jon-lightheavyweight.jpg"
+         }, {
+            "name": "Stipe Miocic",
+            "weight": "Heavyweight",
+            "image": "/images/male/stipe-heavyweight.jpg"
+         }
+
+      ],
+      "female": [{
+            "name": "Jéssica Andrade",
+            "weight": "Strawweight",
+            "image": "/images/female/jessica-strawweight.jpg"
+
+         },
+         {
+            "name": "Valentina Shevchenko",
+            "weight": "Flyweight",
+            "image": "/images/female/valentina-flyweight.jpg"
+         },
+         {
+            "name": "Amanda Nunes",
+            "weight": "Bantamweight",
+            "image": "/images/female/amanda-featherweight.jpg"
+         },
+         {
+            "name": "Amanda Nunes",
+            "weight": "Featherweight",
+            "image": "/images/female/amanda-featherweight.jpg"
+         }
+      ]
    }
 }
